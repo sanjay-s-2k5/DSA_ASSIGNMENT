@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  4 18:17:06 2024
-
-@author: suraj
-"""
-
 import networkx as nx
 import matplotlib.pyplot as plt
 
