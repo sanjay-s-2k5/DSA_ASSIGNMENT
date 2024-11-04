@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  4 21:05:57 2024
-
-@author: suraj
-"""
-
 import networkx as nx
 import matplotlib.pyplot as plt
 import heapq
